@@ -15,7 +15,6 @@
 
 - 💼 Desenvolvedor SAP Júnior na **SapienEx** (antes estagiário), trabalhando com **ABAP**, **SAP CAP**, **CDS** e **Fiori**
 - 🎓 Cursando **Engenharia da Computação** no **SENAI CIMATEC** (conclusão em dez/2026)
-- 🏎️ Membro da equipe **Calango TEC Baja SAE**
 - 🔐 Estudando **redes e cibersegurança** (Cisco)
 - 🌱 Explorando também **Machine Learning**, **Docker** e desenvolvimento web
 
